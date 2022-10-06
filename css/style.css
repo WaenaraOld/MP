@@ -56,9 +56,8 @@ hr {
 }
 @media screen and (min-width: 300px) {
   .bod {
-    background-color: #f8f9fa;
-    margin-left: 1px;
-    margin-right: 1px;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
   }
   footer {
