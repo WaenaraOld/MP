@@ -54,7 +54,7 @@ hr {
     margin-right: 200px;
     height: auto;
 }
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 300px) {
   .bod {
     background-color: #f8f9fa;
     margin-left: 1px;
